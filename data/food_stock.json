@@ -1,0 +1,26 @@
+{
+    "apples": {
+        "unit": "pieces",
+        "quantity": 12.0
+    },
+    "bananas": {
+        "unit": "pieces",
+        "quantity": 6
+    },
+    "rice": {
+        "unit": "kilograms",
+        "quantity": 2.5
+    },
+    "milk": {
+        "unit": "liters",
+        "quantity": 1.5
+    },
+    "pasta": {
+        "unit": "grams",
+        "quantity": 500
+    },
+    "orange_juice": {
+        "unit": "liters",
+        "quantity": 2
+    }
+}
