@@ -10,7 +10,7 @@ During the Mistral AI x Alan Healthcare Hackathon, our team developed an AI-driv
 💡 Solution: A smart assistant that analyzes food inventory and suggests optimized consumption strategies, minimizing waste.
 
 
-• 📝 Presentation Slides: **[Presentation Slides](docs/slides.pdf)**
+• 📝 Presentation Slides: **[Presentation Slides](SERVUS.pdf)**
 
 🎯 Features
 
